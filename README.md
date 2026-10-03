@@ -1,3 +1,5 @@
+# studyhub.html
+An educational web application
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
